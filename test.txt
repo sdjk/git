@@ -2,4 +2,8 @@
 1 change
 =======
 change 1
+<<<<<<< HEAD
 >>>>>>> add change 1
+=======
+change 2
+>>>>>>> add change 2
